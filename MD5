@@ -1,4 +1,4 @@
-ba0cb13cc271ddd935229ee7fe70905b *DESCRIPTION
+f6e9a40d868d8acd6ec3f08f88a21c42 *DESCRIPTION
 5b5e41487bb22cea0dc82a72ca6c37dd *NAMESPACE
 b3d730da5ffb5bdfa782c12ffe853999 *R/DataAccess.R
 1d1cd17b49cdeacdf8093bb7a2923de6 *R/Mechanisms.R
@@ -8,15 +8,15 @@ b3d730da5ffb5bdfa782c12ffe853999 *R/DataAccess.R
 4fefe22ba04a0842e68584cc8e5842ec *R/StatModels.R
 0d4c3779b2476f056568beb4f4212fe3 *R/StatModels_test.R
 d2df5f1247b4e3b990e3f68f05b4f3a8 *README.md
-a446996c00bd950654ced64f73395d67 *build/partial.rdb
+357f57c957c20b8cd0bf430ebd0aa41c *build/partial.rdb
 f21873f5024bed2c19863325c4955b29 *inst/REFERENCES.bib
-415b03b2d4c0e877310c42248bf76872 *man/EmpiricalRiskMinimizationDP.CMS.Rd
-46b92ee346f92fb0c7c2d56b5f632d21 *man/EmpiricalRiskMinimizationDP.KST.Rd
+914c22bc7235e892b81c45bdec72179c *man/EmpiricalRiskMinimizationDP.CMS.Rd
+c21f534823072c0b9298592dd0ef3f13 *man/EmpiricalRiskMinimizationDP.KST.Rd
 e932e1a95ed0a1630b0b29ba954ba120 *man/ExponentialMechanism.Rd
 aa40ef8d74ffd4ed815909f4163a37e9 *man/GaussianMechanism.Rd
 321444b59fa5ff267ee632637a98f18e *man/LaplaceMechanism.Rd
-0d10876823d6725f5b2f29bb4aadeea7 *man/LinearRegressionDP.Rd
-ea00162d6f9e240ed4de16818ea0f056 *man/LogisticRegressionDP.Rd
+45706624704169288920ea9f858891a6 *man/LinearRegressionDP.Rd
+64b61d153953dc983be5ccdf00e3182a *man/LogisticRegressionDP.Rd
 b53ff6a30c744e14143a3649e2e8153e *man/covDP.Rd
 277435efdb6fbc4f2debc9344e7b6caa *man/covDataAccess.Rd
 d1291e22eb69a15b925e3dda35dee812 *man/generate.loss.gr.huber.Rd
@@ -45,7 +45,7 @@ d7cfa9d6f68feffd91867f63771eab2a *man/quantileDataAccess.Rd
 f0b61e3f5cd0704d51f5c6bb2b63f625 *man/regularizer.gr.l2.Rd
 1d5a1f576c0c4c548175ac8fa10af7ff *man/regularizer.l2.Rd
 391f42b588266f823043943209e9a41e *man/sdDP.Rd
-82905417931ff365a2e4d2b86502f70f *man/svmDP.Rd
+ba0bbe6074b7b4847a897f1f31cb7312 *man/svmDP.Rd
 ed1d869391ed7607bdcdf988dbb48d5c *man/tableDP.Rd
 d35d3a206f660d67b30e11dbc7d96f64 *man/tableDataAccess.Rd
 d64a8b18650dd94bd11826031277059c *man/tune_classification_model.Rd
