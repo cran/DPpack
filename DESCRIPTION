@@ -1,7 +1,7 @@
 Package: DPpack
 Type: Package
 Title: Differentially Private Statistical Analysis and Machine Learning
-Version: 0.0.11
+Version: 0.1.0
 Author: Spencer Giddens <giddens2spencer@gmail.com> with contributions from Fang 
     Liu <fliu2@nd.edu>
 Maintainer: Spencer Giddens <giddens2spencer@gmail.com>
@@ -30,6 +30,6 @@ RdMacros: Rdpack
 Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2022-08-25 17:36:33 UTC; sgiddens
+Packaged: 2023-04-08 00:13:31 UTC; sgiddens
 Repository: CRAN
-Date/Publication: 2022-08-25 18:22:34 UTC
+Date/Publication: 2023-04-08 08:00:02 UTC
