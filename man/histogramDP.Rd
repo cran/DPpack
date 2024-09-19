@@ -29,7 +29,7 @@ correspond to frequencies. If TRUE, returned histogram counts correspond to
 densities (i.e. area of histogram is one).}
 
 \item{which.sensitivity}{String indicating which type of sensitivity to use.
-Can be one of {'bounded', 'unbounded', 'both'}. If 'bounded' (default),
+Can be one of \{'bounded', 'unbounded', 'both'\}. If 'bounded' (default),
 returns result based on bounded definition for differential privacy. If
 'unbounded', returns result based on unbounded definition. If 'both',
 returns result based on both methods \insertCite{Kifer2011}{DPpack}. Note
@@ -39,13 +39,14 @@ composition. Care must be taken not to violate differential privacy in this
 case.}
 
 \item{mechanism}{String indicating which mechanism to use for differential
-privacy. Currently the following mechanisms are supported: {'Laplace',
-'Gaussian'}. Default is Laplace. See \code{\link{LaplaceMechanism}} and
-\code{\link{GaussianMechanism}} for a description of the supported
+privacy. Currently the following mechanisms are supported: \{'Laplace',
+'Gaussian', 'analytic'\}. Default is Laplace. See \code{\link{LaplaceMechanism}},
+\code{\link{GaussianMechanism}}, and
+\code{\link{AnalyticGaussianMechanism}} for descriptions of the supported
 mechanisms.}
 
 \item{delta}{Nonnegative real number defining the delta privacy parameter. If
-0 (default), reduces to eps-DP and the Laplace mechanism is used.}
+0 (default), reduces to eps-DP.}
 
 \item{type.DP}{String indicating the type of differential privacy desired for
 the Gaussian mechanism (if selected). Can be either 'pDP' for probabilistic
