@@ -1,7 +1,7 @@
 Package: DPpack
 Type: Package
 Title: Differentially Private Statistical Analysis and Machine Learning
-Version: 0.2.0
+Version: 0.2.1
 Authors@R: c(person("Spencer", "Giddens", email="giddens2spencer@gmail.com",
                     role=c("aut", "cre")),
     person("Fang", "Liu", email="fliu2@nd.edu", role=c("ctb")))
@@ -32,8 +32,8 @@ RdMacros: Rdpack
 Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2024-09-18 17:46:27 UTC; spencergiddens
+Packaged: 2024-10-10 16:04:53 UTC; spencergiddens
 Author: Spencer Giddens [aut, cre],
   Fang Liu [ctb]
 Repository: CRAN
-Date/Publication: 2024-09-19 05:50:10 UTC
+Date/Publication: 2024-10-10 16:30:12 UTC
